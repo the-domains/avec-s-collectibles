@@ -1,0 +1,28 @@
+name: "AVEC'S COLLECTIBLES "
+favicon: null
+layout_spectrum: 0.3787088522221893
+typography_spectrum: 0.18768249615095556
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.36016510520130396
+  lightness: 0.13172495551407337
+  saturation: 0.9079169016331434
+  rhythmicContrast: 0.33476755977608263
+purpose: []
